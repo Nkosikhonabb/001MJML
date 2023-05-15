@@ -1,0 +1,181 @@
+<mjml>
+<mj-head>
+    <mj-breakpoint width="600px" />
+    <mj-attributes>
+        <mj-all  font-family="Arial" padding="0" />
+    </mj-attributes>
+</mj-head>
+    <mj-body
+    background-color="#d6dde5">
+        <mj-section
+        background-color="#ffffff">
+        <mj-group>
+            <mj-column width="300px">
+            <mj-image  href="https://ibb.co/6mKzgCC" src="https://i.ibb.co/s2TnyYY/download-3-Ato-B-removebg-preview.png" alt="download-3-Ato-B-removebg-preview" border="0" width="180px" padding="10px">
+            </mj-image>
+        </mj-column>   
+        </mj-group>
+        <mj-group>
+            <mj-column width="300px" padding="20px 0 0 0">
+            <mj-navbar>
+                <mj-navbar-link>
+                    london
+                </mj-navbar-link>
+                <mj-navbar-link>
+                    +000 123 456
+                </mj-navbar-link>
+            </mj-navbar>
+        </mj-column>
+        </mj-group>
+        </mj-section>
+        <mj-section>
+            <mj-column width="600px" vertical-align="middle" padding="0">
+            <mj-image src="https://i.ibb.co/1RM2DBp/germany.jpg" alt="banner" width="600px" padding="0"/>  
+            </mj-column>
+        </mj-section>
+        <mj-section background-color = "#fff">
+            <mj-group>
+                <mj-column width="200px" padding="10px">
+                    <mj-image src="https://i.ibb.co/k9Nkp3P/images-flag-germany.jpg" alt="images-flag-germany" border="0" width="100px"></mj-image>
+                    <mj-text>
+                    <br />
+                    <h2>Age-old tradition</h2>
+                    <br /><br />
+                        The festival is held in an area named the Theresienwiese often called Wiesn for short, located near Munich’s centre. Large quantities of Oktoberfest beer are consumed, with more than 7.7 million liters served during the 16-day festival.
+                    </mj-text>
+                </mj-column>
+
+            </mj-group>
+            <mj-group>
+                <mj-column width="200px" padding="10px">
+                    <mj-image src="https://i.ibb.co/0shM8qN/images-cup-of-beer.jpg" alt="images-cup-of-beer" border="0" width="150px"></mj-image>
+                    <mj-text>
+                    <br />
+                    <h2>Sea of Bear</h2>
+                    <br /><br />
+                        During Oktoberfest the city center of Munich is full of visitors from all over the world and the city boasts of joyful people. Many Bavarians and visitors dress up in traditional Bavarian costumes like Lederhose.
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+            <mj-group>
+                <mj-column width="200px" padding="10px">
+                    <mj-image src="https://i.ibb.co/0qc6cdx/download-inbound-service.jpg" alt="download-inbound-service" border="0" width="150px"></mj-image>
+                    <mj-text>
+                    <br />
+                    <h2>Fun and Music</h2>
+                    <br /><br />
+                        The Oktoberfest is the world’s largest Volksfest and a combination of beer festival and funfair. Annually held in Munich, it is a folk festival running from late September to the first weekend in October. 
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section background-color = "#fff">
+            <mj-group>
+                <mj-column width="200px" padding="10px">
+                    <mj-image src="https://i.ibb.co/C5Ln87s/download-2.jpg" alt="download-2" border="0" width="150px"></mj-image>
+                    <mj-text>
+                    <br />
+                    <h2>Delicious Food</h2>
+                    <br /><br />
+                        The festival is held in an area named the Theresienwiese often called Wiesn for short, located near Munich’s centre. Large quantities of Oktoberfest beer are consumed, with more than 7.7 million liters served during the 16-day festival.
+                    </mj-text>
+                </mj-column>
+
+            </mj-group>
+            <mj-group>
+                <mj-column width="200px" padding="10px">
+                    <mj-image src="https://i.ibb.co/DDb6wCT/download-4-National-customers.jpg" alt="download-4-National-customers" border="0" width="150px"></mj-image>
+                    <mj-text>
+                    <br />
+                    <h2>Natinal Customers</h2>
+                    <br /><br />
+                        During Oktoberfest the city center of Munich is full of visitors from all over the world and the city boasts of joyful people. Many Bavarians and visitors dress up in traditional Bavarian costumes like Lederhose.
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+            <mj-group>
+                <mj-column width="200px">
+                    <mj-image src="https://i.ibb.co/y0jhHb1/images-celebration.jpg" alt="images-celebration" border="0" width="150px"></mj-image>
+                    <mj-text>
+                    <br /><br />
+                    <h2>Entertainment</h2>
+                    <br /><br />
+                        The Oktoberfest is the world’s largest Volksfest and a combination of beer festival and funfair. Annually held in Munich, it is a folk festival running from late September to the first weekend in October. 
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section>
+            <mj-column width="600px" background-color="#fff" padding="10px">
+                <mj-carousel>
+                    <mj-carousel-image src="https://i.ibb.co/6Nz0hwc/munich-1220911-340-entertainment.jpg" alt="munich-1220911-340-entertainment"/>
+                    <mj-carousel-image src="https://i.ibb.co/wNzvWxz/drink-2353290-340classsofbeer.jpg" alt="drink-2353290-340classsofbeer"  />
+                    <mj-carousel-image src="https://i.ibb.co/LgjwZQT/munich-1198409-340tradition.jpg" alt="munich-1198409-340tradition" />
+                </mj-carousel>    
+            </mj-column>
+         </mj-section>
+         <mj-section>
+            <mj-column width="600px" padding="10px" background-color="#fff">
+                <mj-button background-color="#0000cd" font-size="20px">
+                    Book Now
+                </mj-button>
+            </mj-column>
+         </mj-section>
+         <mj-section>
+         <mj-group>
+            <mj-column width="200px" background-color="#fff" padding-top="10px">
+                <mj-image src="https://i.ibb.co/3C6hmyJ/city-4490237-640-train.jpg" alt="city-4490237-640-train" border="0" width="200px"></mj-image>
+            </mj-column>
+            </mj-group>
+            <mj-group>
+                <mj-column width="200px" background-color="#fff" padding-top="10px">
+                    <mj-image src="https://i.ibb.co/vhFzb96/bus-22114-640-buses.jpg" alt="bus-22114-640-buses" border="0" width="200px"></mj-image>
+                </mj-column>
+            </mj-group>
+            <mj-group>
+                <mj-column width="200px" background-color="#fff" padding-top="10px">
+                    <mj-image src="https://i.ibb.co/Rhczh3C/app-2941689-640-uber.jpg" alt="app-2941689-640-uber" border="0" width="200px"></mj-image>
+                </mj-column>
+            </mj-group>
+         </mj-section>
+         <mj-section>
+            <mj-column width="600px" padding="10px" background-color="#fff">
+                <mj-text color="#0000cd">
+                    More Popular tours
+                </mj-text>
+            </mj-column>
+         </mj-section>
+         <mj-section>
+            <mj-group>
+                <mj-column width="200px" background-color="#fff">
+                    <mj-text>
+                        Paris 20.09<br />
+                        <a class="footer-link" href="#">More</a>
+                    </mj-text>
+                    <mj-image src="https://i.ibb.co/2KssQjT/dresden-5987976-640-buliding.jpg" alt="dresden-5987976-640-buliding" border="0" width="150px"></mj-image>
+                </mj-column>
+            </mj-group>
+            <mj-group>
+                <mj-column width="200px" background-color="#fff" padding="10px" padding-bottom="20px">
+                <mj-text>
+                    Sweden 10.01<br />
+                    <a class="footer-link" href="#">More</a>
+                    <p>Druids ancient news in valhala<br />of priest beautiful on the heaven and earth and the mother nature by the way the place is very interesting in attracting tourist and</p>
+
+                </mj-text> 
+                <mj-image src="https://i.ibb.co/MSY3rD4/konigssee-4790116-640mountain.jpg" alt="konigssee-4790116-640mountain" border="0" width="150px"></mj-image>      
+                </mj-column>
+            </mj-group>
+            <mj-group>
+                <mj-column width="200px" background-color="#fff" padding="10px">
+                    <mj-text>
+                        Bali 14.12<br />
+                        <a class="footer-link" href="#">More</a>
+                        <p>Druids ancient news in valhala<br />of priest beautiful on the heaven and earth and the mother nature by the way the place is very interesting in attracting tourist and </p>
+                    </mj-text>
+                    <mj-image src="https://i.ibb.co/C6BzfLx/boats-5723748-640fishing.jpg" alt="boats-5723748-640fishing" border="0" width="150px"></mj-image>
+                </mj-column>
+            </mj-group>
+         </mj-section>
+    </mj-body>
+</mjml>
